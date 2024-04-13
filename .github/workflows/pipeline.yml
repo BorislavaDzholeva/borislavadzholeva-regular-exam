@@ -21,3 +21,4 @@ jobs:
     - run: npm install 
     - run: npm start &
     - run: npm run test:unit
+    - run: echo "borislavadzholeva"
